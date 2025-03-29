@@ -7,7 +7,7 @@ A combination of all 330.20 Tables from the NCES Digest of Education Statistics 
 
 GitHub does not always render Jupyter Notebooks correctly. For the best viewing experience, open the notebook in **nbviewer**:
 
-👉 [View the properly formatted notebook on nbviewer](https://nbviewer.jupyter.org/github/Ranjanirr/college_tuition/blob/mainTuition_Analysis.ipynb)
+👉 [View the properly formatted notebook on nbviewer](https://nbviewer.jupyter.org/github/Ranjanirr/college_tuition/blob/main/Tuition_Analysis.ipynb)
 
 ## 📂 Repository Contents
 
